@@ -3,7 +3,7 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class NameDateTime {
+public class MyFirstApp {
 
     public static void main(String[] args) {
         System.out.println("My name is Kristine Ianna A. Evasco");
